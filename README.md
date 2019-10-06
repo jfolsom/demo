@@ -1,5 +1,3 @@
-# This is a readme file
+#Version 3.0
 
-This is a simple readme file, now modified.
-
-This is bound to cause trouble.
+This is a simple readme file.
