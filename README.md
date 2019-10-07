@@ -1,4 +1,3 @@
-#Version 3.1
+# This is a readme file
 
-This is a simple readme file.
-Video 35
+This is a simple readme file, now modified.
